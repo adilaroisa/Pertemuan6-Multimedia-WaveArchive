@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("../img/langit.png") no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8); /* lebih solid */
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #00ccff;
+    margin-bottom: 40px;
+  }
+  
+  .media-block {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .media-block h3 {
+    margin-bottom: 10px;
+    color: #aeeaff;
+    cursor: pointer; /* biar kelihatan bisa diklik */
+  }
+  
+  img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    max-width: 100%;
+    height: auto;
+  }
+  
